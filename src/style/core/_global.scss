@@ -1,0 +1,39 @@
+html, body {
+	font-family: $font-base;
+	min-height: 100vh;
+	font-size: 13px;
+	position: relative;
+	width: 100%;
+	@include clearfix;
+	max-width: 100%;
+	overflow-x: hidden;
+	background-color: $white;
+	color: $grey;
+}
+main {
+	background-color: #f9f9f9;
+}
+
+
+
+
+.btn-default {
+	background: #fff;
+	color: $blue;
+	border-color: $blue;
+	cursor: pointer;
+
+	&:hover {
+		background-color: $blue-light;
+	}
+}
+.form-control {
+	padding: 4px;
+	font-size: 11px;
+	border-radius: 0;
+	outline: none;
+
+}
+.form-group {
+	margin-bottom: 10px;
+}

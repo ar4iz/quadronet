@@ -1,0 +1,124 @@
+.header_wrap {
+  display: inline-block;
+  width: 100%;
+  .header{
+    display: inline-block;
+    width: 100%;
+    margin-top: 15px;
+    .language_list{
+      display: inline-block;
+      float: left;
+      padding-left: 15px;
+      li{
+        display: inline-block;
+        float: left;
+        border-right: 1px solid #dddddd;
+        padding-right: 8px;
+        margin-right: 8px;
+        &:last-child{ border-right: 0; }
+        a{
+          display: inline-block;
+          float: left;
+          text-decoration: none;
+          cursor: pointer;
+          color: $grey;
+          text-transform: uppercase;
+          font-family: $font-light;
+          font-size: 13px;
+          line-height: 1.1;
+          &:hover{
+            color: $blue;
+          }
+        }
+      }
+      .active{ a { color: $blue; } }
+    }
+    .form_wrap{
+      display: inline-block;
+      float: right;
+    }
+
+      form {
+        position: relative;
+        width: 300px;
+        margin: 0 auto;
+        /*height: 42px;*/
+        height: 28px;
+      }
+      input {
+        height: 34px;
+        width: 0;
+        padding: 0 42px 0 15px;
+        border: none;
+        border-bottom: 2px solid transparent;
+        outline: none;
+        background: transparent;
+        transition: .4s cubic-bezier(0, 0.8, 0, 1);
+        position: absolute;
+        cursor: pointer;
+        top: 0;
+        right: 0;
+        z-index: 2;
+        &:focus {
+          width: 300px;
+          z-index: 1;
+          border-bottom: 2px solid #F9F0DA;
+        }
+      }
+      button {
+        background: transparent;
+        border: none;
+        height: 42px;
+        width: 42px;
+        position: absolute;
+        top: 0;
+        right: 0;
+        cursor: pointer;
+      }
+    .fa-search {
+      font-size: 16px;
+      color: #d0d0d0;
+    }
+  }
+  .logo {
+    float: left;
+  }
+
+  .navbar{
+    list-style: none;
+    padding-right: 0;
+    margin-top: 15px;
+    padding-left: 0;
+      li {
+        float: left;
+        &:last-child {
+          padding-right: 0;
+          border-bottom: 4px solid white;
+          transition: border-bottom .3s;
+          &:hover{border-bottom: 4px solid dodgerblue;}
+        }
+      }
+    /*border-bottom: 4px solid white;
+    transition: border-bottom .3s;
+    &:hover{border-bottom: 4px solid dodgerblue;}*/
+    a {
+      color: $grey;
+    }
+  }
+    .name {
+      color: #8d8d8d;
+      font-size: 30px;
+      font-family: $font-top;
+      text-transform: uppercase;
+      margin-bottom: 0;
+      .net {
+        color: #007ddd;
+      }
+    }
+  .text {
+    .links {
+      font-size: 12px;
+      margin-bottom: 0;
+    }
+  }
+}

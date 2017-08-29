@@ -1,0 +1,32 @@
+.ftr-contacts {
+  padding-top: 36px;
+  padding-bottom: 45px;
+}
+.copyright {
+  font-size: 14px;
+  color: #969696;
+  margin-bottom: 0;
+}
+.tel {
+  font-size: 24px;
+  font-family: $font-light;
+  float: left;
+  color: #969696;
+}
+.fa-phone {
+  font-size: 20px;
+  color: #d0d0d0;
+  margin-right: 15px;
+}
+.fa-envelope {
+  font-size: 18px;
+  color: #d0d0d0;
+  margin-right: 15px;
+}
+
+.mail {
+  float: right;
+  color: $blue;
+  font-size: 18px;
+  font-family: $font-light;
+}
