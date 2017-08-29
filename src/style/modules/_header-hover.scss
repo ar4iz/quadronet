@@ -91,11 +91,12 @@
     padding-left: 0;
       li {
         float: left;
+        text-decoration: none;
+        border-bottom: 4px solid white;
+        transition: border-bottom .3s;
+        &:hover{border-bottom: 4px solid dodgerblue;}
         &:last-child {
           padding-right: 0;
-          border-bottom: 4px solid white;
-          transition: border-bottom .3s;
-          &:hover{border-bottom: 4px solid dodgerblue;}
         }
       }
     /*border-bottom: 4px solid white;

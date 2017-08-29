@@ -1,0 +1,13 @@
+.breadcrumb {
+  background: #f9f9f9;
+  li {
+    float: left;
+    margin-right: 15px;
+  }
+  a {
+    background-color: $white;
+    border-radius: 4px;
+    padding: 10px;
+    color: $grey;
+  }
+}
