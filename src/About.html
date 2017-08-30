@@ -6,17 +6,24 @@
 <body>
 //= view/general/header_hover.html
 
-<section>
-	<ul class="breadcrumb">
-		<li><a href="#">Главная</a></li>
-		<li class="active"><a href="#">О компании</a></li>
-	</ul>
-</section>
-//= view/components/topnav.html
 <main>
-	//= view/components/directions.html
-	//= view/components/company.html
+	<section class="ltd">
+		<div class="container">
+			<ul class="breadcrumb">
+				<li><a href="index.html">Главная</a></li>
+				<li class="active"><a href="#">О компании</a></li>
+			</ul>
+		</div>
+
+		//= view/components/description.html
+	</section>
 </main>
+	<section class="way">
+		<div class="container">
+			<h3>Направления деятельности компании</h3>
+		</div>
+		//= view/components/directions.html
+	</section>
 
 //= view/general/footer.html
 </body>
