@@ -1,39 +1,52 @@
 .testimonial {
   .directions {
-    padding-top: 63px;
+    padding-top: 0;
 
   .stand {
     text-align: center;
     background-color: $white;
     margin-bottom: 10px;
-  }
-  .items {
-    padding: 0;
-  }
-  .item {
-    & img {
-      max-width: 100%;
-      max-height: 100%;
-      width: auto;
-      height: auto;
+    .items {
+      padding: 0;
     }
-  }
-  .text {
-    font-size: 16px;
-    color: #505050;
-    font-family: $font-bold;
-    padding: 23px 10px 10px 10px;
+    .item {
+      & img {
+        max-width: 100%;
+        max-height: 100%;
+        width: auto;
+        height: auto;
+      }
+    }
+    .text {
+      font-size: 16px;
+      color: #505050;
+      font-family: $font-bold;
+      padding: 23px 29px 10px;
       p {
         margin-bottom: 0;
         line-height: 14px;
       }
     }
   }
+  }
 }
 
 .way {
-  margin-top: 85px;
+  margin-top: 51px;
   padding-bottom: 86px;
+  border-bottom: 13px solid $grey-light;
+  h3 {
+    font-size: 24px;
+    font-family: $font-bold;
+    color: $dark;
+    text-align: center;
+    margin-bottom: -5px;
+  }
+}
+
+.way-sked {
+  margin-top: 51px;
+  padding-bottom: 15px;
   border-bottom: 13px solid $grey-light;
   h3 {
     font-size: 24px;
