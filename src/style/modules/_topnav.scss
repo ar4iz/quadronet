@@ -1,7 +1,7 @@
 .main-content {
   background: url("../img/background.png") right;
   background-size: cover;
-  margin-top: 57px;
+  margin-top: 61px;
   padding-bottom: 80px;
   @include mobile {
     margin-top: 20px;
@@ -30,6 +30,7 @@
     font-size: 16px;
     color: #6c6c6c;
     margin-bottom: 38px;
+    padding-right: 35px;
   }
 }
 .navbar-btn {
