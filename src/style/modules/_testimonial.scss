@@ -6,6 +6,7 @@
     text-align: center;
     background-color: $white;
     margin-bottom: 10px;
+    padding-left: 25px;
     .items {
       padding: 0;
     }
@@ -21,7 +22,7 @@
       font-size: 16px;
       color: #505050;
       font-family: $font-bold;
-      padding: 23px 29px 10px;
+      padding: 23px 29px 10px 32px;
       p {
         margin-bottom: 0;
         line-height: 14px;

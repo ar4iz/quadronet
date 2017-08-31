@@ -6,12 +6,16 @@
   font-size: 14px;
   color: #969696;
   margin-bottom: 0;
+  line-height: 18px;
+  padding-top: 4px;
 }
 .tel {
   font-size: 24px;
   font-family: $font-light;
   float: left;
   color: #969696;
+  padding-left: 65px;
+  padding-top: 2px;
 }
 .fa-phone {
   font-size: 20px;
@@ -21,7 +25,8 @@
 .fa-envelope {
   font-size: 18px;
   color: #d0d0d0;
-  margin-right: 15px;
+  margin-right: 12px;
+  margin-top: 5px;
 }
 
 .mail {
@@ -29,4 +34,6 @@
   color: $blue;
   font-size: 18px;
   font-family: $font-light;
+  padding-right: 6px;
+  padding-top: 6px;
 }
