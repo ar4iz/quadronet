@@ -2,34 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="746641ad-242b-451e-bb3e-266a3a19163f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/style/modules/_about.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/style/modules/_company.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/style/modules/_description.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/style/modules/_net.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/view/components/company.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/view/components/topnav.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/img/layer.jpg" afterPath="$PROJECT_DIR$/build/img/layer.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/layer.jpg" afterPath="$PROJECT_DIR$/src/img/layer.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/img/seo_bg.png" afterPath="$PROJECT_DIR$/build/img/seo_bg.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/img/seo_bg.png" afterPath="$PROJECT_DIR$/src/img/seo_bg.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/About.html" afterPath="$PROJECT_DIR$/build/About.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Networks.html" afterPath="$PROJECT_DIR$/build/Networks.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/SMM-SEO.html" afterPath="$PROJECT_DIR$/build/SMM-SEO.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Servers.html" afterPath="$PROJECT_DIR$/build/Servers.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/main.css" afterPath="$PROJECT_DIR$/build/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/index.html" afterPath="$PROJECT_DIR$/build/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Networks.html" afterPath="$PROJECT_DIR$/src/Networks.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/core/_mixins.scss" afterPath="$PROJECT_DIR$/src/style/core/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/main.scss" afterPath="$PROJECT_DIR$/src/style/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/modules/_footer.scss" afterPath="$PROJECT_DIR$/src/style/modules/_footer.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/modules/_header.scss" afterPath="$PROJECT_DIR$/src/style/modules/_header.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/modules/_server.scss" afterPath="$PROJECT_DIR$/src/style/modules/_server.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/style/modules/_testimonial.scss" afterPath="$PROJECT_DIR$/src/style/modules/_testimonial.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/components/net.html" afterPath="$PROJECT_DIR$/src/view/components/net.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/components/server.html" afterPath="$PROJECT_DIR$/src/view/components/server.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/components/testimonial.html" afterPath="$PROJECT_DIR$/src/view/components/testimonial.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/view/general/footer.html" afterPath="$PROJECT_DIR$/src/view/general/footer.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,7 +39,7 @@
       <file leaf-file-name="_server.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/style/modules/_server.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
+            <state relative-caret-position="3808">
               <caret line="224" column="21" lean-forward="false" selection-start-line="224" selection-start-column="21" selection-end-line="224" selection-end-column="21" />
               <folding />
             </state>
@@ -73,7 +49,7 @@
       <file leaf-file-name="seo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/view/components/seo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="-330">
               <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="26" />
               <folding>
                 <element signature="n#div#0;n#div#1;n#!!top" expanded="false" />
@@ -129,7 +105,6 @@
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/src/style/pages/_settings.scss" />
         <option value="$PROJECT_DIR$/src/view/components/settings.html" />
-        <option value="$PROJECT_DIR$/build/css/main.css" />
         <option value="$PROJECT_DIR$/src/view/components/story.html" />
         <option value="$PROJECT_DIR$/src/style/modules/_story.scss" />
         <option value="$PROJECT_DIR$/src/style/core/_fonts.scss" />
@@ -167,6 +142,7 @@
         <option value="$PROJECT_DIR$/src/view/components/seo.html" />
         <option value="$PROJECT_DIR$/src/style/core/_mixins.scss" />
         <option value="$PROJECT_DIR$/src/style/modules/_server.scss" />
+        <option value="$PROJECT_DIR$/build/css/main.css" />
       </list>
     </option>
   </component>
@@ -194,9 +170,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="161" />
-    <option name="y" value="82" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="178" />
+    <option name="y" value="75" />
     <option name="width" value="1490" />
     <option name="height" value="766" />
   </component>
@@ -229,6 +205,12 @@
               <item name="quadronet" type="b2602c69:ProjectViewProjectNode" />
               <item name="quadronet" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="quadronet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quadronet" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="quadronet" type="b2602c69:ProjectViewProjectNode" />
@@ -321,29 +303,29 @@
       <workItem from="1504001363751" duration="24923000" />
       <workItem from="1504077772365" duration="16107000" />
       <workItem from="1504099292325" duration="14348000" />
-      <workItem from="1504162689040" duration="9681000" />
+      <workItem from="1504162689040" duration="10880000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87036000" />
+    <option name="totallyTimeSpent" value="88235000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="161" y="82" width="1490" height="766" extended-state="1" />
+    <frame x="178" y="75" width="1490" height="766" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22048847" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -364,7 +346,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.885/style.css" />
     <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_nav.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1488">
@@ -399,14 +380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="5" column="6340" lean-forward="false" selection-start-line="5" selection-start-column="6336" selection-end-line="5" selection-end-column="6340" />
           <folding />
         </state>
       </provider>
@@ -655,14 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/style/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/view/components/testimonial.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -695,16 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/view/components/seo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="26" />
-          <folding>
-            <element signature="n#div#0;n#div#1;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/style/core/_mixins.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -713,9 +668,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/components/seo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/style/modules/_server.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
+        <state relative-caret-position="3808">
           <caret line="224" column="21" lean-forward="false" selection-start-line="224" selection-start-column="21" selection-end-line="224" selection-end-column="21" />
           <folding />
         </state>
