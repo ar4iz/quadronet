@@ -241,8 +241,24 @@
 .wrap-directions {
   padding-top: 46px;
   padding-bottom: 93px;
+
   .items {
     padding: 42px 39px 11px 33px;
+    @include tablet-sm {
+      padding: 20px;
+    }
+  }
+}
+
+.article {
+  @include tablet-sm {
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin-bottom: 10px;
+  }
+  @include mobile {
+    max-width: 100%;
+    flex: 0 0 100%;
   }
 }
 

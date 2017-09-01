@@ -96,19 +96,35 @@
     padding-right: 0;
     margin-top: 15px;
     padding-left: 0;
-      li {
-        float: left;
-        &:last-child {
-          padding-right: 0;
-        }
+    margin-bottom: 0;
+    padding-bottom: 0;
+    @include mobile {
+      display: inline-block;
+    }
+    .underline {
+      float: left;
+      text-decoration: none;
+      border-bottom: 2px solid white;
+      transition: border-bottom .3s;
+      height: 57px;
+      @include mobile {
+        margin-right: 12px;
+        border-bottom: none;
+        height: 35px;
       }
-    /*border-bottom: 4px solid white;
-    transition: border-bottom .3s;
-    &:hover{border-bottom: 4px solid dodgerblue;}*/
-    a {
+      &:hover{border-bottom: 2px solid #00afec;}
+      &:last-child {
+        padding-right: 0;
+      }
+    }
+    .hover {
       color: $grey;
+      text-decoration: none;
+      display: block;
+      height: 100%;
     }
   }
+
     .name {
       color: #8d8d8d;
       font-size: 30px;
@@ -131,4 +147,7 @@
 }
 .topnav {
   padding-left: 0;
+  @include mobile {
+    padding-left: 15px;
+  }
 }

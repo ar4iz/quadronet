@@ -4,6 +4,7 @@
 
 //third party
 @import "../../node_modules/bootstrap/scss/bootstrap";
+@import "../../node_modules/bootstrap/scss/carousel";
 @import "../../node_modules/font-awesome/scss/font-awesome";
 
 // core styles
@@ -13,7 +14,6 @@
 
 // modules styles
 @import "modules/header";
-@import "modules/header-hover";
 @import "modules/server";
 @import "modules/topnav";
 @import "modules/testimonial";
