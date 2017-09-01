@@ -4,7 +4,8 @@
   "description": "",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "popper.js": "^1.12.5"
   },
   "devDependencies": {
     "bootstrap": "^4.0.0-alpha.6",
@@ -33,6 +34,5 @@
   },
   "author": "Artur Bulan",
   "license": "ISC",
-  "bugs": {
-  }
+  "bugs": {}
 }

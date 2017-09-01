@@ -1,5 +1,4 @@
 .header_wrap {
-  display: inline-block;
   width: 100%;
   .header{
     display: inline-block;
@@ -46,7 +45,7 @@
         height: 28px;
       }
       input {
-        height: 34px;
+        height: 21px;
         width: 0;
         padding: 0 42px 0 15px;
         border: none;
@@ -101,23 +100,23 @@
     @include mobile {
       display: inline-block;
     }
-    .underline {
+    li {
       float: left;
       text-decoration: none;
       border-bottom: 2px solid white;
       transition: border-bottom .3s;
-      height: 57px;
+      height: 63px;
       @include mobile {
         margin-right: 12px;
         border-bottom: none;
-        height: 35px;
+        height: 39px;
       }
       &:hover{border-bottom: 2px solid #00afec;}
       &:last-child {
         padding-right: 0;
       }
     }
-    .hover {
+    a {
       color: $grey;
       text-decoration: none;
       display: block;
@@ -150,4 +149,34 @@
   @include mobile {
     padding-left: 15px;
   }
+}
+
+
+
+.carousel-indicators {
+  justify-content: inherit;
+  margin-left: 0;
+  bottom: 55px;
+  @include mobile {
+    justify-content: center;
+    bottom: 28px;
+  }
+  li {
+    border-radius: 50%;
+    background-color: #dcf0ff;
+    width: 10px;
+    height: 10px;
+    margin-left: 5px;
+    margin-right: 8px;
+    &:hover {
+      cursor: pointer;
+    }
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+    .active {
+      background-color: $blue;
+    }
+
 }
